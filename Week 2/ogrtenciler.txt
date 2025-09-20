@@ -1,0 +1,3 @@
+Ali,85
+Ayşe,90
+Mehmet,70
